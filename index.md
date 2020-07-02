@@ -2,13 +2,13 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+![Image of brennatocat](https://octodex.github.com/brennatocat/)
 
 <br>
 
-{% include 02-image.md %}
+![Image of blacktocat](https://octodex.github.com/blacktocats/)
 
 <br>
 
-{% include 03-links.md %}
+![Image ofsaint_nictocat](https://octodex.github.com/saint_nictocat/)
 
