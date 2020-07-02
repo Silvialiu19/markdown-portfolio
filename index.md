@@ -2,13 +2,13 @@
 layout: default
 ---
 
-![Image of brennatocat](https://octodex.github.com/brennatocat/)
+![Image of brennatocat](https://octodex.github.com/images/brennatocat.png)
 
 <br>
 
-![Image of blacktocat](https://octodex.github.com/blacktocats/)
+![Image of blacktocat](https://octodex.github.com/images/blacktocats.png)
 
 <br>
 
-![Image ofsaint_nictocat](https://octodex.github.com/saint_nictocat/)
+![Image of saint_nictocat](https://octodex.github.com/images/saint_nictocat.png)
 
